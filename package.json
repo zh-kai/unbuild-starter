@@ -1,0 +1,16 @@
+{
+  "name": "unbuild-starter",
+  "version": "1.0.0",
+  "description": "JS libs.",
+  "main": "dist/index.mjs",
+  "scripts": {
+    "build": "rm -rf ./dist && unbuild"
+  },
+  "keywords": [],
+  "author": "zh-kai",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "unbuild": "^2.0.0"
+  }
+}
