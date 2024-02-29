@@ -16,6 +16,7 @@
     "unbuild": "^2.0.0"
   },
   "type": "module",
+  "types": "./dist/types.d.ts",
   "files": [
     "dist"
   ],
